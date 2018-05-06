@@ -1,1 +1,1 @@
-# face_rec
+# FaceRecResNet
